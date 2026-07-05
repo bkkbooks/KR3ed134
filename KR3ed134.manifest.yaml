@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed134_000.yaml, hash: 'sha256:783ac3853bef8332169ae8b373c1523af8167948eb77bc58e51a383f6175eddf'}
+  - {seq: 0, filename: KR3ed134_000.yaml, hash: 'sha256:3f40a5b5b3d989a04df6d4e573bcbc3f0fa98faf3ffb902654c538218cbcf4c9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed134_000.markers.yaml, hash: 'sha256:32d5f641f2779bfb9c51ff51e07b4f416d8455125102ae0c11e8b0140646d0c9'}
+  - {seq: 0, role: markers, filename: assets/KR3ed134_000.markers.yaml, hash: 'sha256:f3adf873bc93e839263faea82633e8470ba880acaf45f4cacfa678d6e3e09569'}
 table_of_contents:
 - ref:
     seq: 0
@@ -791,7 +791,4 @@ table_of_contents:
   label: 暑月著寒
   type: section
   level: 1
-hash: sha256:f54026012727386f5f5a093f59cd9b9b5603e7a33bc0b928fe541306f5dfc7b3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e4654ceffa796fc27f4c2c5439c6f599e6d7f77bed1dd66ce94e1bd41731b55c
