@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed134/v1
 canonical_location: https://kanripo.org/bkk/KR3ed134/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 張愛廬臨證經驗方
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed134_000.yaml, hash: 'sha256:3f40a5b5b3d989a04df6d4e573bcbc3f0fa98faf3ffb902654c538218cbcf4c9'}
+  - {seq: 0, filename: KR3ed134_000.yaml, hash: 'sha256:f527bcdf64a2e2a6af73465da4a16126d1d21bbdf88d346f9c752f45957dd45c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed134_000.markers.yaml, hash: 'sha256:f3adf873bc93e839263faea82633e8470ba880acaf45f4cacfa678d6e3e09569'}
+  - {seq: 0, role: markers, filename: assets/KR3ed134_000.markers.yaml, hash: 'sha256:91b8a0f12a70340bbbbe35b20e0de52d4bc5bfe86b895acb672e27539832727a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -791,4 +791,7 @@ table_of_contents:
   label: 暑月著寒
   type: section
   level: 1
-hash: sha256:e4654ceffa796fc27f4c2c5439c6f599e6d7f77bed1dd66ce94e1bd41731b55c
+hash: sha256:24a0c4f68e7af1614d4366a69025465bdb4510e9a442eaa5a761ff33148b891f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
