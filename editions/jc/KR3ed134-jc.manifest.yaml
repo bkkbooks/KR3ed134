@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed134_000-jc.yaml, hash: 'sha256:3f40a5b5b3d989a04df6d4e573bcbc3f0fa98faf3ffb902654c538218cbcf4c9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed134_000-jc.markers.yaml, hash: 'sha256:e3faa011e0e1ea8a0519aa1b3684fef02712c2a093c9eed809a4a7b2c8e4b344'}
+  - {seq: 0, role: markers, filename: assets/KR3ed134_000-jc.markers.yaml, hash: 'sha256:268fa10d7b463a70c03d6161f7502f7eb9960ec969acb04173e423b9fc4715e5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -791,4 +791,4 @@ table_of_contents:
   label: 暑月著寒
   type: section
   level: 1
-hash: sha256:61eef32122866aaf3a196ef6e9bb14ad329e8ae675a3f5f7b2a7acf46039fed4
+hash: sha256:38fe8b41e52cdd9f112a2e15e344f00cfdfbee82691b8fa1b9579e33613c582f

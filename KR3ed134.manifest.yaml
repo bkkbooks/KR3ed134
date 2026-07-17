@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ed134_000.yaml, hash: 'sha256:f527bcdf64a2e2a6af73465da4a16126d1d21bbdf88d346f9c752f45957dd45c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed134_000.markers.yaml, hash: 'sha256:91b8a0f12a70340bbbbe35b20e0de52d4bc5bfe86b895acb672e27539832727a'}
+  - {seq: 0, role: markers, filename: assets/KR3ed134_000.markers.yaml, hash: 'sha256:a6e0bc4c888e154a6188965832c28d777eb3e8655928f1dade4786ee3d19ab4e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -791,7 +791,7 @@ table_of_contents:
   label: 暑月著寒
   type: section
   level: 1
-hash: sha256:24a0c4f68e7af1614d4366a69025465bdb4510e9a442eaa5a761ff33148b891f
+hash: sha256:e81b495855a4eb350ee549cbe9ad096a02a5e97564abebd8c3608be6127acb7c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
